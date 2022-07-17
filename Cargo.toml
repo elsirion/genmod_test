@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "api",
+    "app",
+    "mod-mint",
+    "mod-wallet",
+]
